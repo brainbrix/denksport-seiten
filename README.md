@@ -7,5 +7,5 @@ https://curlie.org/de/Freizeit/Hobbys/R%C3%A4tsel/
 # Kostenlosen Aufgaben
 https://denksport.hirnsport.de
 
-# Sduoku
+# Sudoku
 https://sudoku1on1.com/de
